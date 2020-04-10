@@ -18,9 +18,15 @@
         tools:layout="@layout/fragment_dashboard" />
 
     <fragment
-    android:id="@+id/navigation_notifications"
+        android:id="@+id/navigation_menu"
+        android:name="com.example.myapplication15.ui.menu.MenuFragment"
+
+        tools:layout="@layout/fragment_menu"/>
+
+    <fragment
+        android:id="@+id/navigation_notifications"
         android:name="com.example.myapplication15.ui.notifications.NotificationsFragment"
 
-    tools:layout="@layout/fragment_notifications" />
+        tools:layout="@layout/fragment_notifications" />
 
 </navigation>
