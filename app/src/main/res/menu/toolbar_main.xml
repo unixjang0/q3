@@ -8,10 +8,4 @@
         android:icon="@drawable/ic_account_circle_black_30dp"
         app:showAsAction="always"/>
 
-    <item
-        android:id="@+id/menu_menu"
-        android:title="menu"
-        android:icon="@drawable/ic_menu"
-        app:showAsAction="always"/>
-
 </menu>

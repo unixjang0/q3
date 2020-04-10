@@ -15,7 +15,7 @@
         android:id="@+id/navigation_dashboard"
         android:name="com.example.myapplication15.ui.search.SearchFragment"
 
-        tools:layout="@layout/fragment_dashboard" />
+        tools:layout="@layout/fragment_search" />
 
     <fragment
         android:id="@+id/navigation_menu"
