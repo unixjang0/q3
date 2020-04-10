@@ -4,4 +4,7 @@
     <string name="title_search">Search</string>
     <string name="title_notifications">Notifications</string>
     <string name="title_menu">menu</string>
+
+    <string name="tab_text_1">통합검색</string>
+    <string name="tab_text_2">맞춤검색</string>
 </resources>
